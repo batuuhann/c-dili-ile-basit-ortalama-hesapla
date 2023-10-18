@@ -1,0 +1,1 @@
+# c-dili-ile-basit-ortalama-hesapla
